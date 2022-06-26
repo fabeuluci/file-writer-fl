@@ -1,0 +1,21 @@
+{
+  "name": "file-writer-fl",
+  "version": "1.0.0",
+  "license": "MIT",
+  "author": {
+    "name": "Fabeuluci"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:fabeuluci/file-writer-fl.git"
+  },
+  "main": "out/index.js",
+  "typings": "out/index.d.ts",
+  "dependencies": {
+    "fs-ext": "^2.0.0",
+    "promise-utils-fl": "^1.0.0"
+  },
+  "devDependencies": {
+    "@types/fs-ext": "^2.0.0"
+  }
+}
